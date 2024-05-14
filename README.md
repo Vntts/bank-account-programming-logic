@@ -9,3 +9,6 @@ Este é um programa simples em Java que solicita informações básicas de uma c
 ## ✅ Requisitos
 
 - JDK (Java Development Kit) instalado no sistema.
+
+## Observação
+- Esse código foi feito para fins acadêmicos com o intuito de registrar minha evolução.
